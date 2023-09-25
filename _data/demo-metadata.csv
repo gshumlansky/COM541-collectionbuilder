@@ -1,4 +1,4 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 demo_001,demo_001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Example locally hosted image item. Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities; buildings; campuses; picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, Special Collections and Archives, University of Idaho Library",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,Public Domain,https://creativecommons.org/publicdomain/mark/1.0/
-kitty001,Cat w lizzard.jpg,,,Cat wreaking a lizard,Basile Morin,2018,"
+kitty001,Catlizzard.jpg,,,Cat wreaking a lizard,Basile Morin,2018,"
 Domestic cat playing with an oriental garden lizard",cat; lizard; play;,"Hua Det, Loas",13.985448,105.915617,https://commons.wikimedia.org/wiki/File:Cat_playing_with_a_lizard.jpg#metadata,,Image;StillImage,image/jpeg,eng,Public Domain,
