@@ -20,14 +20,14 @@ source-code: https://gshumlansky.github.io/COM541-collectionbuilder/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Cool Guy 
+title: A collection of cats
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Uh Oh! Cool guy alert!
+tagline: Some pictures from friends of cats
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Wow, the guy who made this site must be really cool! - everyone"
+description: "This site contains pictures of some of the cats my friends have as pets as well as some of the stray cats around my apartment"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: A very cool guy
+author: Gustaf Shumlansky
 
 ##########
 # COLLECTION SETTINGS
